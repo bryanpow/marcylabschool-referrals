@@ -11,7 +11,7 @@ import { processData } from "./components/layout/Home/ProcessSection/data";
 
 export default function Home() {
   return (
-    <div className="flex h-screen bg-white">
+    <div className="flex  bg-white">
       {/* Main content area */}
       <div className="flex-1 overflow-y-auto ml-auto">
         <HeroSection />
